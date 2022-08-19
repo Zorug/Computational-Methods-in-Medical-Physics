@@ -1,4 +1,6 @@
-# Computational-Methods-in-Medical-Physics
+# Computational Methods in Medical Physics
+
+This folder contains a good part of the material used in the discipline of Computational Methods in Medical Physics. More information about the course can be found at: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=479939
 
 ## Goals
 
